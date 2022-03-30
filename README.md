@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @asefmajidi
 - 👀 I’m interested in learning about new things and launching projects. 
-- 🌱 I’m currently learning about serious games and system engineerin. 
-- 💞️ I’m looking to collaborate on on the serious game term project. 
-- 📫 You can reach me on discord. 
+- 🌱 I completed a project about the desing and assessment of serious games.
+- 💞️ I’m looking to start and collaborate on other cool projects!
+- 📫 You can reach me on discord.
 
 <!---
 asefmajidi/asefmajidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
